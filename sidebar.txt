@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tnz:home|Door43 (tnz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tnz|d43-tnz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tnz/archive/master.zip|d43-tnz.zip]]
+
+**Recent Changes**
+{{changes>ns = tnz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tnz|Ethnologue data]]
+
